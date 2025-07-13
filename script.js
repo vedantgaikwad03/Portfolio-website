@@ -8,7 +8,7 @@ document.getElementById('downloadCvBtn').addEventListener('click', function(e) {
   e.preventDefault();
   
   // Replace with your actual CV file path
-  const cvUrl = 'C:/Users/Vedant/Documents/Vedant_Gaikwad_CV.pdf'; 
+  const cvUrl = 'assets/documents/Vedant_Gaikwad_CV.pdf'; 
   const fileName = 'Vedant_Gaikwad_CV.pdf'; // Customize your filename
   
   // Create temporary link
