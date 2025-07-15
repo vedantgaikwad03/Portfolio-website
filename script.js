@@ -8,7 +8,7 @@ document.getElementById('downloadCvBtn').addEventListener('click', function(e) {
   e.preventDefault();
   
   // Replace with your actual CV file path
-  const cvUrl = 'assets/documents/Vedant_Gaikwad_CV.pdf'; 
+  const cvUrl = 'C:/Users/Vedant/Documents/Vedant_Gaikwad_CV.pdf'; 
   const fileName = 'Vedant_Gaikwad_CV.pdf'; // Customize your filename
   
   // Create temporary link
@@ -68,25 +68,25 @@ const skillsData = {
 // Projects Data
 const projectsData = [
     {
-        title: 'E-commerce Platform',
-        description: 'A full-featured online store with payment integration and admin dashboard.',
-        technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
+        title: 'E-LEarning Platfrom - Eduspark',
+        description: 'A full-featured online learning platform with variety of feature for both Teacher and Student.',
+        technologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'SQL'],
         image: 'https://via.placeholder.com/600x400?text=E-commerce+Platform',
         liveUrl: '#',
         codeUrl: '#'
     },
     {
-        title: 'Task Management App',
-        description: 'Productivity application for managing personal and team tasks with real-time updates.',
-        technologies: ['Vue.js', 'Firebase', 'SCSS'],
+        title: 'IPL Analysis',
+        description: 'Analysis of the IPL data of past 2 decades to get useful insights',
+        technologies: ['Python', 'Pandas', 'NumPy', 'Matplotlib'],
         image: 'https://via.placeholder.com/600x400?text=Task+Management+App',
         liveUrl: '#',
         codeUrl: '#'
     },
     {
-        title: 'Portfolio Template',
-        description: 'Modern responsive portfolio template for developers and designers.',
-        technologies: ['HTML', 'CSS', 'JavaScript'],
+        title: 'Titanic Surviour Analysis ',
+        description: 'Titanic Surviour Analysis gives insights about the surviours.',
+        technologies: ['Python', 'Pandas', 'NumPy', 'Matplotlib'],
         image: 'https://via.placeholder.com/600x400?text=Portfolio+Template',
         liveUrl: '#',
         codeUrl: '#'
