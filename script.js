@@ -71,7 +71,7 @@ const projectsData = [
         title: 'E-LEarning Platfrom - Eduspark',
         description: 'A full-featured online learning platform with variety of feature for both Teacher and Student.',
         technologies: ['HTML', 'CSS', 'JavaScript', 'PHP', 'SQL'],
-        image: 'https://via.placeholder.com/600x400?text=E-commerce+Platform',
+        image: 'assets/images/eduLogo.jpg',
         liveUrl: '#',
         codeUrl: '#'
     },
@@ -79,7 +79,7 @@ const projectsData = [
         title: 'IPL Analysis',
         description: 'Analysis of the IPL data of past 2 decades to get useful insights',
         technologies: ['Python', 'Pandas', 'NumPy', 'Matplotlib'],
-        image: 'https://via.placeholder.com/600x400?text=Task+Management+App',
+        image: 'assets/images/ipl_logo.png',
         liveUrl: '#',
         codeUrl: '#'
     },
